@@ -1,0 +1,7 @@
+var sign = prompt("Enter password");
+
+if (sign == "116909") {
+  
+} else {
+location.replace("https://windows93.net")
+}
